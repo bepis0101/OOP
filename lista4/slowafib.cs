@@ -1,3 +1,10 @@
+/*
+Borys Adamiak
+Programowanie Obiektowe - Lista 4
+Zadanie 2
+mcs slowafib.cs ./slowafib.exe
+*/
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
